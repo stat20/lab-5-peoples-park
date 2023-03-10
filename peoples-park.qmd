@@ -2,14 +2,6 @@
 title: "Lab 5.2: People's Park"
 ---
 
-
-```{r}
-#| echo: true
-#| eval: false
-
-usethis::use_course("https://tinyurl.com/lab-5-peoples-park")
-```
-
 The data collected by the Chancellor's Office on Cal students can be found as `ppk` in the `stat20data` package.
 
 The `ppk` data set represents a subset of questions that were asked in the questionnaire and have had random noise added to them. The results, in aggregate, share similar statistical properties to the raw data, but a given row no longer reflects an individual student's response completely.
